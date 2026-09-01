@@ -1,0 +1,19 @@
+- Build administration
+    - Setup partials
+        - header
+        - footer
+    - Admin panel
+        - Create model
+        - View: Admin dashboard - List all products available 
+        - View: Create product
+        - View: View/Update product
+        - Create associated routes [/admin]
+            - Get: /
+            - Get: /product/:ID
+            - POST: product/create
+            - DELETE: product/delete
+            - POST: /product/update
+
+- Build out home page
+    - Header
+    - Product List
